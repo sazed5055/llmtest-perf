@@ -568,7 +568,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## Why llmtest-perf?
 
-**llmtest-perf** complements [llmtest](https://github.com/yourusername/llmtest) (a correctness/safety testing framework) by focusing exclusively on **performance validation**. Together, they provide comprehensive testing for LLM applications:
+**llmtest-perf** complements [llmtest](https://github.com/sazed5055/llmtest) (a correctness/safety testing framework) by focusing exclusively on **performance validation**. Together, they provide comprehensive testing for LLM applications:
 
 - **llmtest**: Grounding, safety, prompt injection, behavioral regression
 - **llmtest-perf**: Latency, throughput, TTFT, performance regression
