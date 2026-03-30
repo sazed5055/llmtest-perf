@@ -46,6 +46,10 @@ artifacts/*.json
 artifacts/*.html
 *.log
 
+# Documentation and demos (keep local only)
+docs/
+demo/
+
 # Environment
 .env
 .env.local
